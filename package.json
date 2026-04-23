@@ -2,7 +2,7 @@
   "name": "n8n-nodes-injective",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Injective blockchain providing 24 resources and 200+ operations for DeFi trading, staking, governance, and cross-chain operations. Includes spot/derivative trading, position management, Peggy bridge, IBC transfers, and real-time WebSocket streaming.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -104,7 +104,7 @@
     "gulp": "^4.0.2",
     "gulp-rename": "^2.0.0",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.20.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.0.0",
     "rimraf": "^5.0.0",
     "ts-jest": "^29.1.0",
